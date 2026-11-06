@@ -1,0 +1,6 @@
+{
+  "name": "AI Voice Changer",
+  "description": "Transform your voice in real time with AI effects, pitch shift, tempo adjustment, and noise removal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
